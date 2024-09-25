@@ -28,6 +28,7 @@ div .post-header {
 div .container {
     display: flex;
     justify-content: space-between;
+    
    }
 div .icon2 {
     padding: 10px;
