@@ -22,7 +22,10 @@ div.icon1 {
     }
 div .post-header {
    display: flex;
-   padding: 10px;
+   padding: 20px;
+   height: 3px;
+   place-items: center;
+  
 }
 
 div .container {
