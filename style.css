@@ -1,46 +1,51 @@
 body {
     background: black;
     margin: 0;
-}
+ }
 
 div .post {
     box-sizing: border-box;
-}
+ }
+
+div .container {
+    padding-top: 10px;
+    padding-bottom: 5px;
+ }
 
 div .container, .post-img, .post-body {
     background: white;
     width: 600px;
     margin: auto;
-}
+ }
 
 strong {
     font-size: large;
-}
+ }
 
 div.icon1 {
     font-size: 25px;
     display: grid;
     place-items: center;
-}
+ }
 
 div .post-header {
    display: flex;
    padding: 20px;
    height: 3px;
    place-items: center;
-}
+ }
 
 div .container {
     display: flex;
     justify-content: space-between;
-}
+ }
 
 div .icon2 {
     padding: 10px;
     font-size: 30px;
     display: grid;
     place-items: center;
-}
+ }
 
  div .icon1 {
     font-size: 25px;
@@ -48,20 +53,20 @@ div .icon2 {
 
 img {
     width: 100%;
-}
+ }
 
 div .post-body  i, p {
     padding: 10px;
-}
+ }
 
 div .icon4 {
     float: right;
-}
+ }
 
 div .icon3, .icon4 {
     display: inline-block;
     font-size: 30px;
-}
+ }
 
  div .post-body {
     height: 300px;
